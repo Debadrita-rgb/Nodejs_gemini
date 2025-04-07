@@ -27,8 +27,9 @@ This is an intelligent **ChatBot** powered by **Gemini AI**, designed to provide
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/gemini-chatbot.git
-cd gemini-chatbot
+git clone https://github.com/Debadrita-rgb/Nodejs_gemini
+cd frontend/frontend/gemini_chat
+cd frontend/frontend/chatbot
 
 # Install dependencies
 npm install
